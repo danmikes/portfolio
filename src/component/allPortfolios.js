@@ -39,7 +39,7 @@ const portfolios = [
     icon1: 'G',
     icon2: 'Y',
     image: port3,
-    title: 'ReactJS'
+    title: 'React'
   },
   {
     id: 4,
@@ -69,7 +69,7 @@ const portfolios = [
     icon1: 'G',
     icon2: 'Y',
     image: port6,
-    title: 'java/angular'
+    title: 'Java/Angular'
   },
   {
     id: 7,
@@ -79,7 +79,7 @@ const portfolios = [
     icon1: 'G',
     icon2: 'Y',
     image: port6,
-    title: 'java/react'
+    title: 'Java/React'
   }
 ]
 
