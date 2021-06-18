@@ -69,6 +69,16 @@ const portfolios = [
     icon1: 'G',
     icon2: 'Y',
     image: port6,
+    title: 'java/angular'
+  },
+  {
+    id: 7,
+    category: 'fullstack',
+    link1: 'https://www.github.com',
+    link2: 'https://www.youtube.com',
+    icon1: 'G',
+    icon2: 'Y',
+    image: port6,
     title: 'java/react'
   }
 ]
