@@ -63,13 +63,13 @@ const portfolios = [
   },
   {
     id: 6,
-    category: 'application',
+    category: 'fullstack',
     link1: 'https://www.github.com',
     link2: 'https://www.youtube.com',
     icon1: 'G',
     icon2: 'Y',
     image: port6,
-    title: 'fullstack'
+    title: 'java/react'
   }
 ]
 
