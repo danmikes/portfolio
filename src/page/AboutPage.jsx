@@ -26,7 +26,7 @@ function AboutPage() {
         <SkillSection skill={'GraphQL/GraphQLPlayground'} progress={'20%'} />
         <SkillSection skill={'LinkedData/SparQL'} progress={'1%'} />
         <SkillSection skill={'Git/GitHub/GitLab'} progress={'90%'} />
-        <SkillSection skill={'Machine Learning/Artificial Intelligence'} progress={'0%'} />
+        <SkillSection skill={'Machine Learning/AI'} progress={'0%'} />
       </div>
 
       <Title title={'services'} span={'service'} />
