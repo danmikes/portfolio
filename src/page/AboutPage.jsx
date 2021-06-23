@@ -16,9 +16,9 @@ function AboutPage() {
       <Title title={'skills'} span={'skills'} />
       <div className="skills-container">
         <SkillSection skill={'Java/SpringBoot/IntelliJ Idea'} progress={'80%'} />
+        <SkillSection skill={'TypeScript/Angular'} progress={'20%'} />
         <SkillSection skill={'JavaScript/ReactJS/Visual Studio Code'} progress={'40%'} />
         <SkillSection skill={'JavaScript/ReactNative/Visual Studio Code'} progress={'10%'} />
-        <SkillSection skill={'TypeScript/Angular'} progress={'20%'} />
         <SkillSection skill={'Python/PyCharm'} progress={'10%'} />
         <SkillSection skill={'Vi/Bash/LateX'} progress={'80%'} />
         <SkillSection skill={'SQL/PostgreSql'} progress={'40%'} />
